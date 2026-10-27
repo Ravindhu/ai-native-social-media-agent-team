@@ -1,0 +1,12 @@
+{
+  "provider": "anthropic",
+  "anthropic": {
+    "model": "claude-haiku-5-5",
+    "timeout": 120
+  },
+  "ollama": {
+    "model": "llama3.1",
+    "host": "http://localhost:11434",
+    "timeout": 300
+  }
+}
